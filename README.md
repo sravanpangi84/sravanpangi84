@@ -1,95 +1,79 @@
-# 👋 Hey, I'm [Pangi sravan]
 
-### 🚀 Forward Deployed Engineer | AI Engineer | Full-Stack Developer
+<h2>💻 Programming Languages</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" />
+</p>
 
-> Bridging the gap between cutting-edge technology and real-world business problems.
+<h2>🌐 Frontend Technologies</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
+</p>
 
-I'm a **Forward Deployed Engineer** passionate about building, deploying, and scaling production-ready solutions. I work across software engineering, AI, cloud infrastructure, and customer-facing technical problem solving.
+<h2>⚙️ Backend Technologies</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" />
+</p>
 
-- 🔭 Building intelligent, scalable, real-world solutions.
-- 🤖 Exploring AI, LLMs, Agentic AI & automation.
-- 🌐 Developing full-stack applications and APIs.
-- ☁️ Deploying and managing cloud-native applications.
-- 🎯 Focused on solving complex problems through technology.
+<h2>🤖 AI / Machine Learning</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" />
+</p>
 
----
+<h2>🗄️ Databases</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
+</p>
 
-## 💻 Programming Languages
+<h2>☁️ Cloud & DevOps</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+</p>
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,go,rust,php,ruby,swift,kotlin,dart,scala,lua,bash,powershell,r&perline=9](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,go,rust,php,ruby,swift,kotlin,dart,scala,lua,bash,powershell,r\&perline=9)" />
-\</p>
-
-## ⚡ Technologies & Tools
-
-### Frontend Development
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,svelte,tailwind,bootstrap&perline=9](https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,svelte,tailwind,bootstrap\&perline=9)" />
-\</p>
-
-### Backend Development
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,dotnet,nestjs&perline=9](https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,dotnet,nestjs\&perline=9)" />
-\</p>
-
-### AI / Machine Learning
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=9](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn\&perline=9)" />
-\</p>
-
-### Database & Storage
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase,sqlite&perline=9](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase,sqlite\&perline=9)" />
-\</p>
-
-### Cloud & DevOps
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,linux&perline=9](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,linux\&perline=9)" />
-\</p>
-
-### Development Tools
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vim&perline=9](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vim\&perline=9)" />
-\</p>
-
----
-
-## 📊 GitHub Statistics
-
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)" />
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)" />
-\</p>
-
----
-
-## 🌐 Connect With Me
-
-\<p align="left">
-&#x20; \<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/YOUR_LINKEDIN/)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" width="40" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" width="40" />
-&#x20; \</a>
-\</p>
-
-📧 Email: YOUR_EMAIL
-
----
-
-\<p align="center">
-&#x20; \<b>⚡ Build. Deploy. Solve Real-World Problems.\</b>
-&#x20; \<br/>
-&#x20; \<i>Forward Deployed Engineering — Where Technology Meets Reality.\</i>
-\</p>
+<h2>🛠️ Developer Tools</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
+</p>
